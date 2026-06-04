@@ -64,7 +64,7 @@
 
 /* PROFILE CARD */
 .profile-card {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #9ee349 0%, #764ba2 100%);
   border-radius: 20px;
   padding: 36px 24px;
   text-align: center;
@@ -159,7 +159,7 @@
 
 .badge-active {
   background: rgba(34, 197, 94, 0.25);
-  color: #bbf7d0;
+  color: #0beb5a;
   border: 1px solid rgba(34, 197, 94, 0.4);
 }
 
