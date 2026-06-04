@@ -75,7 +75,7 @@ export default function Login() {
         </button>
 
         <p className="login-note">
-          🔒 Kami hanya menggunakan akun Google kamu untuk autentikasi.
+          Kami hanya menggunakan akun Google kamu untuk autentikasi.
           Data kamu aman.
         </p>
       </div>
