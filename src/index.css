@@ -12,15 +12,15 @@ body {
   align-items: center;
   justify-content: center;
   gap: 16px;
-  background: #f0f2f5;
-  color: #6b7280;
+  background: linear-gradient(145deg, #dbeafe 0%, #ede9fe 35%, #fce7f3 65%, #d1fae5 100%);
+  color: #4c1d95;
 }
 
 .spinner {
   width: 36px;
   height: 36px;
-  border: 3px solid #e5e7eb;
-  border-top-color: #667eea;
+  border: 3px solid rgba(255,255,255,0.4);
+  border-top-color: #7c3aed;
   border-radius: 50%;
   animation: spin 0.7s linear infinite;
 }
