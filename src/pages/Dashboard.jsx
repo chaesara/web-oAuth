@@ -355,7 +355,7 @@ export default function Dashboard() {
         <div className="oauth-explain glass">
           <div className="flow-steps">
             {[
-              { title: "User klik "Login dengan Google"", desc: "Browser membuka popup Google Sign-In" },
+              { title: "User klik 'Login dengan Google'", desc: "Browser membuka popup Google Sign-In" },
               { title: "User memilih akun Google", desc: "Google memverifikasi identitas pengguna" },
               { title: "Google mengirim Authorization Code", desc: "Firebase Auth menukar code dengan Access Token" },
               { title: "App menerima user data", desc: "Nama, email, foto profil tersedia tanpa password" },
